@@ -46,7 +46,7 @@ section {
   background: transparent;
   backdrop-filter: blur(10px);
   transition: all 0.5s ease;
-  border: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .logo {
