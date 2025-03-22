@@ -47,10 +47,10 @@ body {
   padding-left: 30px;
   margin: 10px 0;
 }
-.cta {
+.btn {
   margin-top: 20px;
 }
-.cta a {
+.btn a {
   display: inline-block;
   background: #28a745;
   color: white;
